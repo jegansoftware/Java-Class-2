@@ -1,0 +1,12 @@
+// file should be as Buy.java
+package pen;
+
+public class Buy {
+	
+	public static void main(String[] args) {
+	BuyPen in=new BuyPen();
+	in.jegan();
+
+	}
+
+}
